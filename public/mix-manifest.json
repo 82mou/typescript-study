@@ -1,0 +1,10 @@
+{
+    "/assets/js/app.js": "/assets/js/app.js",
+    "/assets/css/app.css": "/assets/css/app.css",
+    "/assets/js/.svg-dummy-module.js": "/assets/js/.svg-dummy-module.js",
+    "/assets/svg/sprite.svg": "/assets/svg/sprite.svg",
+    "/assets/images/sample.gif": "/assets/images/sample.gif",
+    "/assets/images/sample.jpeg": "/assets/images/sample.jpeg",
+    "/assets/images/sample.jpg": "/assets/images/sample.jpg",
+    "/assets/images/sample.png": "/assets/images/sample.png"
+}
