@@ -16,27 +16,3 @@ export interface Qiita {
   user: User;
   page_views_count: null;
 }
-
-export interface Tag {
-  name: string;
-  versions: any[];
-}
-
-export interface User {
-  description: null | string;
-  facebook_id: null | string;
-  followees_count: number;
-  followers_count: number;
-  github_login_name: null | string;
-  id: string;
-  items_count: number;
-  linkedin_id: null | string;
-  location: null | string;
-  name: string;
-  organization: string | null;
-  permanent_id: number;
-  profile_image_url: string;
-  team_only: boolean;
-  twitter_screen_name: null | string;
-  website_url: null | string;
-}
