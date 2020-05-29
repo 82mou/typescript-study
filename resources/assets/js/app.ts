@@ -1,5 +1,3 @@
-declare var document: Document
-
 import axios from "axios";
 import { Qiita } from "./qiita";
 
